@@ -1,0 +1,1 @@
+This is LuMantus' first git project!
